@@ -30,15 +30,15 @@ body {
 }
 #flashytitle {
 	background-color: #004040;
-	background-image: url("https://file.garden/Yp5W6qVyGGEk7oPg/squiddle%20heart.png") !important;
+	background-image: url("") !important;
 }
 header .mspfalogo {
 	background-color: #004040;
-	background-image: url("https://file.garden/Yp5W6qVyGGEk7oPg/squiddle%20heart.png");
+	background-image: url("");
 }
 footer .mspfalogo {
 	background-color: #004040;
-	background-image: url("https://file.garden/Yp5W6qVyGGEk7oPg/squiddle%20heart.png");
+	background-image: url("");
 }
 nav {
 	background-color: #004040;
@@ -56,5 +56,5 @@ nav a {
 	color: #80ff80 !important;
 }
 div.heart {
-	background-image: url("https://file.garden/Yp5W6qVyGGEk7oPg/squiddle%20heart.png");
+	background-image: url("https://file.garden/Yp5W6qVyGGEk7oPg/userpage/heart.png");
 }
