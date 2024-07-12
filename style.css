@@ -1,0 +1,60 @@
+body {
+	background-color: #408080;
+	background-image: url("https://file.garden/Yp5W6qVyGGEk7oPg/squiddle%20heart.png");
+}
+#main {
+	background-color: #004040;
+	background-image: url("https://file.garden/Yp5W6qVyGGEk7oPg/squiddle%20heart.png");
+}
+#userinfo th {
+	background-color: #004080;
+	color: #80ffff;
+}
+#userinfo {
+	background-color: #004080;
+	color: #80ffff;
+}
+#userinfo input.major[type=button] {
+	border-color: #408080 #408080 #408080 #408080;
+	--border-a: #408080;
+	--border-B: #408080;
+	background-color: #000040;
+	border-radius: 12px;
+}
+.major, .major.alt {
+	color: #408080;
+	text-shadow: 0 2px #80ffff;
+}
+#userinfo, #userinfo td, #userinfo th {
+	border-color: #80ffff;
+}
+#flashytitle {
+	background-color: #004040;
+	background-image: url("https://file.garden/Yp5W6qVyGGEk7oPg/squiddle%20heart.png") !important;
+}
+header .mspfalogo {
+	background-color: #004040;
+	background-image: url("https://file.garden/Yp5W6qVyGGEk7oPg/squiddle%20heart.png");
+}
+footer .mspfalogo {
+	background-color: #004040;
+	background-image: url("https://file.garden/Yp5W6qVyGGEk7oPg/squiddle%20heart.png");
+}
+nav {
+	background-color: #004040;
+}
+a:active, #usersite:active, #useremail:active {
+	color: #80ff80;
+}
+a:visited, #usersite:visited, #useremail:visited {
+	color: #ffff80;
+}
+a, #usersite, #useremail {
+	color: #80ff80;
+}
+nav a {
+	color: #80ff80 !important;
+}
+div.heart {
+	background-image: url("https://file.garden/Yp5W6qVyGGEk7oPg/squiddle%20heart.png");
+}
